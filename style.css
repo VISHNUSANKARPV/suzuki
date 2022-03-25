@@ -1,0 +1,165 @@
+.header{
+    width: 100%;
+    height: 80px;
+    background: black;
+    display: flex;
+    justify-content: space-around;
+   position: fixed;
+   cursor: pointer;
+   
+    
+}
+body{
+    margin: 0;
+}
+.link{
+   
+    padding: 0 16px;
+    font-size: 15px;
+    color: #fff;
+    padding: 0px 20px;
+   
+    background-color: transparent;
+    margin-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+   
+  
+}
+.after-head{
+    width: 100%;
+  
+}
+.video{
+    width: 100%;
+    height: 759px;
+    padding-left: 51px;
+    
+}
+.head1{
+    width: 100%;
+    height: 80px;
+    background: black;
+    margin-top: -4px;
+    color: #fff;
+    padding-left: 50px;
+}
+.link2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    padding: 0 16px;
+    color: white;
+
+}
+.head-line{
+    margin-left: 110px;
+    padding-top: 29px;
+}
+
+.head-line :hover{
+    background: turquoise;
+}
+.head2{
+    width: 100%;
+    height: 120px;
+    background: white;
+    padding-left: 50px;
+    padding-top: 34px;
+   
+}
+.link3{
+    padding: 0 16px;
+    font-size: 25px;
+    color: #4E443C;
+    padding: 0px 20px;
+   
+    background-color: transparent;
+    margin-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+.after-head2{
+    width: 100%;
+}
+.img{
+    width: 50%;
+
+}
+.img3{
+    width: 30%;
+}
+.head2 :hover{
+    font-size: 30px;
+}
+.H1{
+    color: #000;
+    margin: 0px;
+    margin-bottom: 32px;
+    text-transform: uppercase;
+    font-family: 'suzukiprobold';
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 1.5;
+    font-weight: 500;
+    line-height: 1.5;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.after-h1{
+    width: 100%;
+    background: white;
+    
+    
+}
+.bl{
+background: royalblue;
+width: 25%;
+height: 314px;
+margin-left: 15%;
+float: left;
+
+}
+.fb{
+    width: 70px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+.p{
+    color: white;
+    font-size: 30px;
+    margin-left: 141px;
+    margin-top: -52px;
+}
+.tw{
+    width: 65px;
+    margin-left: 20px;
+}
+.p2{
+    color: white;
+    font-size: 30px;
+    margin-left: 142px;
+    margin-top: -51px;
+}
+.in{
+    width: 64px;
+    margin-left: 21px;
+}
+.p3{
+    color: white;
+    font-size: 30px;
+    margin-left: 135px;
+    margin-top: -52px;
+}
+.img4{
+    width: 20%;
+    float: left;
+}
+.img5{
+    float: left;
+    width: 27%;
+}
+.white{
+    background: white;
+    width: 100%;
+    height: 300px;
+}
